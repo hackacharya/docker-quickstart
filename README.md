@@ -1,4 +1,4 @@
-# dockerquickstart
+# docker-quickstart
 
 Quickstart Dockerfiles and Sample Applications 
 Quickstart to Docker run and GCP/Azure/AWS Kubernetes Engine deployments
